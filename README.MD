@@ -95,44 +95,41 @@ sourced everything from mouser, made full bom and verified all parts. cart is re
 
 ## BOM
 
-| Quantity | References | Value | Code | Link | Cost | Total |
-| --- | --- | --- | --- | --- | --- | --- |
-| 5 | R1 | 2.2k | CFR-12JB-52-2K2 | [CFR-12JB-52-2K2 YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/CFR-12JB-52-2K2?qs=%2Fha2pyFaduguKzzNh3FFGjcjeCrw6XLi7qO3fcp8uGAeTbdTW3NWpQ%3D%3D) | 18.64 | 93.2 |
-| 15 | R2,R9,R12 | 1k | CFR-12JB-52-1K | [CFR-12JB-52-1K YAGEO \| Mouser](https://www.mouser.com/ProductDetail/YAGEO/CFR-12JB-52-1K?qs=8uyp%2Fy7yFW6RQpJpptx%2FjA%3D%3D) | 8.39 | 125.85000000000001 |
-| 10 | R3,R14 | 470R | CFR-12JB-52-470R | [CFR-12JB-52-470R YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/CFR-12JB-52-470R?qs=%2Fha2pyFaduguKzzNh3FFGhfDs4OOvhnWTwwBcnn%2FMObWfCDx0mlwug%3D%3D) | 8.39 | 83.9 |
-| 10 | R4,R6 | 100R | CFR-12JB-52-100R | [CFR-12JB-52-100R YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/CFR-12JB-52-100R?qs=%2Fha2pyFaduguKzzNh3FFGvC3O2CWFCKi2%252BYSCrlUXeFESMknYkK4sw%3D%3D) | 8.39 | 83.9 |
-| 10 | R5,R7 | 10k | CFR-12JB-52-10K | [CFR-12JB-52-10K YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/CFR-12JB-52-10K?qs=%2Fha2pyFaduguKzzNh3FFGoOqFe6wPpVia0lDknWpUfhFHYrSo8JXtQ%3D%3D) | 8.39 | 83.9 |
-| 5 | R8 | 220R | CFR-12JB-52-220R | [CFR-12JB-52-220R YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/CFR-12JB-52-220R?qs=%2Fha2pyFaduguKzzNh3FFGsSiGs45uh5Vv%252B%2FtGQVnCAw44AoZD6pelQ%3D%3D) | 18.64 | 93.2 |
-| 5 | R10 | 33k | CFR-12JB-52-33K | [CFR-12JB-52-33K YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/CFR-12JB-52-33K?qs=%2Fha2pyFaduguKzzNh3FFGtD5HMOaPBxnrTlnbsSj2Q0XkWIk8qu95g%3D%3D) | 18.64 | 93.2 |
-| 5 | R11 | 3.3k | CFR-12JB-52-3K3 | [CFR-12JB-52-3K3 YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/CFR-12JB-52-3K3?qs=%2Fha2pyFaduguKzzNh3FFGvB2%2FXk%252BjjTJRDDA5bSJAXFTvRhEPLksLg%3D%3D) | 18.64 | 93.2 |
-| 5 | R13 | 270R | CFR-25JR-52-270R | [CFR-25JR-52-270R YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/CFR-25JR-52-270R?qs=%2Fha2pyFaduiUclxQMvctpKqdUEK9N9SZgQRfFyqRSpWhgFFU6kp0pQ%3D%3D) | 9.32 | 46.6 |
-| 5 | R16 | 330R | FMP100JR-52-330R | [FMP100JR-52-330R YAGEO \| Mouser India](https://www.mouser.in/ProductDetail/YAGEO/FMP100JR-52-330R?qs=sGAEpiMZZMukHu%252BjC5l7YU1KDXB2UgZE%252B9bionrPPGU%3D) | 12.11 | 60.55 |
-| 5 | C1 | 100u | ESK107M016AC3AA | [ESK107M016AC3AA KEMET \| Mouser India](https://www.mouser.in/ProductDetail/KEMET/ESK107M016AC3AA?qs=9RUIYXQlAdBlfkFfvuUkxQ%3D%3D) | 17.7 | 88.5 |
-| 5 | C2 | 10u | FK16X7R1C106K | [FK16X7R1C106K TDK \| Mouser India](https://www.mouser.in/ProductDetail/TDK/FK16X7R1C106K?qs=sGAEpiMZZMvsSlwiRhF8qk5dk0Ff3GLt7CBGZPfzGBA%3D) | 46.59 | 232.95000000000002 |
-| 15 | C3,C5,C6 | 10n | FG18X7R1H103KNT06 | [FG18X7R1H103KNT06 TDK \| Mouser India](https://www.mouser.in/ProductDetail/TDK/FG18X7R1H103KNT06?qs=sGAEpiMZZMsh%252B1woXyUXj2I8eAiqPMPDobsvyMfyv4Y%3D) | 8.67 | 130.05 |
-| 5 | C4 | 100n | FG18X7R1H104KNT06 | [FG18X7R1H104KNT06 TDK \| Mouser India](https://www.mouser.in/ProductDetail/TDK/FG18X7R1H104KNT06?qs=qf2ddTMq67WA8sH6FratLA%3D%3D) | 22.36 | 111.8 |
-| 5 | C7 | 4.7n | FG28X7R1H472KNT06 | [FG28X7R1H472KNT06 TDK \| Mouser India](https://www.mouser.in/ProductDetail/TDK/FG28X7R1H472KNT06?qs=qf2ddTMq67VHPU0W%252B3I8vg%3D%3D) | 20.5 | 102.5 |
-| 5 | C8 | 1u | FG18X7R1E105KRT00 | [FG18X7R1E105KRT00 TDK \| Mouser India](https://www.mouser.in/ProductDetail/TDK/FG18X7R1E105KRT00?qs=vNwBHymccZ%252B2%252BCnL09vDMw%3D%3D) | 28.89 | 144.45 |
-| 20 | C9,C10,C11,C12 | 470u | ESC477M035AH4AA | [ESH477M035AL3AA KEMET \| Mouser India](https://www.mouser.in/ProductDetail/KEMET/ESH477M035AL3AA?qs=sGAEpiMZZMukHu%252BjC5l7YQgQugTmc6cjprvY1xciEeM%3D) | 34.85 | 697 |
-| 15 | C13,C14,C15 | 100n | MKP10-.1/400/5P15 | [MKP10-.1/400/5P15 WIMA \| Mouser India](https://www.mouser.in/ProductDetail/WIMA/MKP10-1-400-5P15?qs=ruR7qzrNb6g3VgX%252BWvHiGQ%3D%3D) | 54.23 | 813.4499999999999 |
-| 5 | Q1 | BC327 | BC327-40-AP | [BC327-40 Diotec Semiconductor \| Mouser India](https://www.mouser.in/ProductDetail/Diotec-Semiconductor/BC327-40?qs=OlC7AqGiEDk3RFYgk5gWUg%3D%3D&utm_id=506131562&utm_marketing_tactic=apaccorp&msclkid=3215ecd3c3141fd4a5d986d8d17fc729&utm_source=bing&utm_medium=cpc&utm_campaign=Other%20Suppliers%20PDP%20DSA%20India&utm_term=%2FProductDetail%2F&utm_content=Other%20Suppliers%20PDP%20DSA) | 15.84 | 79.2 |
-| 5 | Q2 | IRFP260N | IRFP260NPBF | [IRFP260NPBF Infineon Technologies \| Mouser India](https://www.mouser.in/ProductDetail/Infineon-Technologies/IRFP260NPBF?qs=9%252BKlkBgLFf2Q0aoG2Yfqfg%3D%3D) | 498.51 | 2492.55 |
-| 5 | U1 | LM311N | LM311N/NOPB | [LM311N/NOPB Texas Instruments \| Mouser India](https://www.mouser.in/ProductDetail/Texas-Instruments/LM311N-NOPB?qs=X1J7HmVL2ZEW%2F3U%252B2FkA%2Fw%3D%3D) | 85.73 | 428.65000000000003 |
-| 5 | U2 | NE555N | NE555PE4 | [NE555PE4 Texas Instruments \| Mouser India](https://www.mouser.in/ProductDetail/Texas-Instruments/NE555PE4?qs=rLYyFdxB%2FmpV6UJXAtWXuA%3D%3D) | 109.02 | 545.1 |
-| 5 | D1 | 1N4742 | 1N4742A-T50A | [1N4742A-T50A onsemi \| Mouser India](https://www.mouser.in/ProductDetail/onsemi/1N4742A-T50A?qs=0lQeLiL1qyaUl85kww6yHQ%3D%3D) | 26.09 | 130.45 |
-| 5 | D2 | GREEN | WP710A10PGT | [WP710A10PGT Kingbright \| Mouser India](https://www.mouser.in/ProductDetail/Kingbright/WP710A10PGT?qs=jBF9H7RTBaQqx0iDNHF17A%3D%3D) | 25.16 | 125.8 |
-| 5 | D3 | RED | WP710A10ID | [WP710A10ID Kingbright \| Mouser India](https://www.mouser.in/ProductDetail/Kingbright/WP710A10ID?qs=wRBQ8ZgBZ98VyHeNIlWGkQ%3D%3D) | 20.5 | 102.5 |
-| 5 | D4 | 1N4148 | 1N4148 | [1N4148 onsemi \| Mouser India](https://www.mouser.in/ProductDetail/onsemi/1N4148?qs=i4Fj9T%2FoRm8RMUhj5DeFQg%3D%3D) | 9.32 | 46.6 |
-| 5 | B1 | BUTTON | PTS636SL43 LFS | [PTS636SL43 LFS C&K \| Mouser India](https://www.mouser.in/ProductDetail/CK/PTS636SL43-LFS?qs=jcD%2FCkGBYeOwjxNXDGvRDg%3D%3D) | 13.98 | 69.9 |
-| 10 | DC | INPUT,OUTPUT | CONN2-200 | [TB007-508-02BE Same Sky \| Mouser India](https://www.mouser.in/ProductDetail/Same-Sky/TB007-508-02BE?qs=sGAEpiMZZMvPvGwLNS671%2FDanv8Jav06gFn0LCcvzWQbXW5uAFVdMA%3D%3D) | 35.78 | 357.8 |
-| 5 | RV1 | 5k | 3296W-1-252LF | [3296W-1-252LF Bourns \| Mouser India](https://www.mouser.in/ProductDetail/Bourns/3296W-1-252LF?qs=VW5eOWd7Luy89Xw%2FKwu%2Fxg%3D%3D) | 218.97 | 1094.85 |
-| 5 | SIGNAL | RCA-JACK | PJRAN1X1U02AUX | [PJRAN1X1U02AUX Switchcraft \| Mouser India](https://www.mouser.in/ProductDetail/Switchcraft/PJRAN1X1U02AUX?qs=mcPJWgAPNrfnzxVPOaEt1A%3D%3D) | 277.68 | 1388.4 |
-| 1 | Power | 24V 30A |  | [SMPS](https://www.electropi.in/24v-30amp-smps-720w-dc-metal-power-supply-nwp-india?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdUjZWr9YCGbH4icIqFa3hjFX&gclid=CjwKCAjw8arQBhB9EiwAfIKdQgc_rpZojPv0Mygbbj7UUXyriQciigStOZzCfHfr27ALZGUfF0p5OhoCSjsQAvD_BwE) | 3999 | 3999 |
-| 2 | Transformer | Flyback | BSC25-T1010A | [Flyback](https://amzn.in/d/0g0eCBQw) | 499 | 998 |
-| 5 | PCB |  |  |  | 989 | 989 |
-|  |  |  |  |  | Shipping | 1200 |
-|  |  |  |  |  | Total (INR) | 17226 |
-|  |  |  |  |  | Total (USD) | 172.26 |
-
+| Index | Qty | Part Number | Manufacturer Part Number | Description | Available | Backorder | Unit Price | Extended Price INR |
+|------:|----:|-------------|--------------------------|-------------|----------:|----------:|-----------:|-------------------:|
+| 1 | 10 | 2.2KEBK-ND | CFR-12JB-52-2K2 | RES 2.2K OHM 5% 1/6W AXIAL | 10 | 0 | 3.727 | ₹37.27 |
+| 2 | 25 | 1.0KEBK-ND | CFR-12JB-52-1K | RES 1K OHM 5% 1/6W AXIAL | 25 | 0 | 3.0936 | ₹77.34 |
+| 3 | 10 | 470EBK-ND | CFR-12JB-52-470R | RES 470 OHM 5% 1/6W AXIAL | 10 | 0 | 3.727 | ₹37.27 |
+| 4 | 10 | 100EBK-ND | CFR-12JB-52-100R | RES 100 OHM 5% 1/6W AXIAL | 10 | 0 | 3.448 | ₹34.48 |
+| 5 | 10 | 10KEBK-ND | CFR-12JB-52-10K | RES 10K OHM 5% 1/6W AXIAL | 10 | 0 | 3.634 | ₹36.34 |
+| 6 | 10 | 220EBK-ND | CFR-12JB-52-220R | RES 220 OHM 5% 1/6W AXIAL | 10 | 0 | 3.727 | ₹37.27 |
+| 7 | 10 | 33KEBK-ND | CFR-12JB-52-33K | RES 33K OHM 5% 1/6W AXIAL | 10 | 0 | 3.448 | ₹34.48 |
+| 8 | 10 | 3.3KEBK-ND | CFR-12JB-52-3K3 | RES 3.3K OHM 5% 1/6W AXIAL | 10 | 0 | 3.448 | ₹34.48 |
+| 9 | 10 | 399-6601-ND | ESK107M016AC3AA | CAP ALUM 100UF 20% 16V RADIAL TH | 10 | 0 | 10.064 | ₹100.64 |
+| 10 | 10 | 445-8348-ND | FK16X7R1C106KR020 | CAP CER 10UF 16V X7R RADIAL | 10 | 0 | 28.235 | ₹282.35 |
+| 11 | 10 | 445-180204-ND | FG18X7R1E105KRT00 | CAP CER 1UF 25V X7R RADIAL | 10 | 0 | 16.96 | ₹169.60 |
+| 12 | 20 | 399-6086-ND | ESC477M035AH4AA | CAP ALUM 470UF 20% 35V RADIAL TH | 20 | 0 | 37.74 | ₹754.80 |
+| 13 | 2 | IRFP260NPBF-ND | IRFP260NPBF | MOSFET N-CH 200V 50A TO247AC | 2 | 0 | 587.07 | ₹1,174.14 |
+| 14 | 10 | WP710A10PGT-ND | WP710A10PGT | LED GREEN CLEAR T-1 T/H | 10 | 0 | 17.426 | ₹174.26 |
+| 15 | 10 | 754-1606-ND | WP710A10ID | LED RED DIFFUSED T-1 T/H | 10 | 0 | 14.071 | ₹140.71 |
+| 16 | 5 | CKN12301-ND | PTS636SL43 LFS | SWITCH TACTILE SPST-NO 0.05A 12V | 5 | 0 | 15.84 | ₹79.20 |
+| 17 | 5 | 3296W-1-252LF-ND | 3296W-1-252LF | TRIMMER 2.5K OHM 0.5W PC PIN TOP | 5 | 0 | 224.58 | ₹1,122.90 |
+| 18 | 10 | 13-CFR-25JR-52-270RCT-ND | CFR-25JR-52-270R | RES 270 OHM 5% 1/4W AXIAL | 10 | 0 | 3.262 | ₹32.62 |
+| 19 | 10 | 330WCT-ND | FMP100JR-52-330R | RES 330 OHM 5% 1W AXIAL | 10 | 0 | 7.921 | ₹79.21 |
+| 20 | 15 | 445-173264-1-ND | FG18X7R1H103KNT06 | CAP CER 10000PF 50V X7R RADIAL | 15 | 0 | 12.021 | ₹180.32 |
+| 21 | 10 | 445-173265-1-ND | FG18X7R1H104KNT06 | CAP CER 0.1UF 50V X7R RADIAL | 10 | 0 | 12.953 | ₹129.53 |
+| 22 | 10 | 445-173598-1-ND | FG28X7R1H472KNT06 | CAP CER 4700PF 50V X7R RADIAL | 10 | 0 | 12.021 | ₹120.21 |
+| 23 | 15 | 1928-MKP1G031004D00KSSD-ND | MKP1G031004D00KSSD | MKP 10 0.1F 400V DC 7X14X18 PCM | 0 | 15 | 54.793 | ₹821.90 |
+| 24 | 10 | 4878-BC327-40BK-ND | BC327-40BK | TRANS PNP 45V 0.8A TO-92 | 10 | 0 | 10.157 | ₹101.57 |
+| 25 | 5 | LM311NNS/NOPB-ND | LM311N/NOPB | IC COMPARATOR 1 GEN PUR 8DIP | 5 | 0 | 85.73 | ₹428.65 |
+| 26 | 5 | LM311NNS/NOPB-ND | LM311N/NOPB | IC COMPARATOR 1 GEN PUR 8DIP | 5 | 0 | 85.73 | ₹428.65 |
+| 27 | 10 | 1N4742A-T50ACT-ND | 1N4742A-T50A | DIODE ZENER 12V 1W DO41 | 10 | 0 | 15.842 | ₹158.42 |
+| 28 | 10 | 1N4148FS-ND | 1N4148 | DIODE STANDARD 100V 200MA DO35 | 10 | 0 | 5.125 | ₹51.25 |
+| 29 | 10 | 102-6203-ND | TB007-508-02BE | TERMINAL BLOCK, SCREW TYPE, 5.08 | 10 | 0 | 36.995 | ₹369.95 |
+| 30 | 5 | SC1852-ND | PJRAN1X1U01AUX | CONN RCA JACK MONO 3.2MM R/A | 5 | 0 | 275.83 | ₹1,379.15 |
+| 31 | 1 | Power (Own Funded) | - | - | 1 | 0 | 3999 | ₹0 |
+| 32 | 2 | Transformer (Own Funded) | - | - | 2 | 0 | 499 | ₹0 |
+| 33 | 1 | PCB | - | - | 1 | 0 | 989 | ₹989 |
+| | | | | **TOTAL** | | | | **₹9,597.96** |
 
 
