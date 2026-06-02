@@ -1,0 +1,35 @@
+﻿Index,Quantity,Part Number,Manufacturer Part Number,Description,Link,Available,Backorder,Unit Price,Extended Price INR
+1,10,2.2KEBK-ND,CFR-12JB-52-2K2,RES 2.2K OHM 5% 1/6W AXIAL,https://www.digikey.in/en/products/detail/yageo/CFR-12JB-52-2K2/3992,10,0,3.727, ₹37.27 
+2,25,1.0KEBK-ND,CFR-12JB-52-1K,RES 1K OHM 5% 1/6W AXIAL,https://www.digikey.in/en/products/detail/yageo/CFR-12JB-52-1K/4000,25,0,3.0936, ₹77.34 
+3,10,470EBK-ND,CFR-12JB-52-470R,RES 470 OHM 5% 1/6W AXIAL,https://www.digikey.in/en/products/detail/yageo/CFR-12JB-52-470R/4005,10,0,3.727, ₹37.27 
+4,10,100EBK-ND,CFR-12JB-52-100R,RES 100 OHM 5% 1/6W AXIAL,https://www.digikey.in/en/products/detail/yageo/CFR-12JB-52-100R/4019,10,0,3.448, ₹34.48 
+5,10,10KEBK-ND,CFR-12JB-52-10K,RES 10K OHM 5% 1/6W AXIAL,https://www.digikey.in/en/products/detail/yageo/CFR-12JB-52-10K/3977,10,0,3.634, ₹36.34 
+6,10,220EBK-ND,CFR-12JB-52-220R,RES 220 OHM 5% 1/6W AXIAL,https://www.digikey.in/en/products/detail/yageo/CFR-12JB-52-220R/4013,10,0,3.727, ₹37.27 
+7,10,33KEBK-ND,CFR-12JB-52-33K,RES 33K OHM 5% 1/6W AXIAL,https://www.digikey.in/en/products/detail/yageo/CFR-12JB-52-33K/3962,10,0,3.448, ₹34.48 
+8,10,3.3KEBK-ND,CFR-12JB-52-3K3,RES 3.3K OHM 5% 1/6W AXIAL,https://www.digikey.in/en/products/detail/yageo/CFR-12JB-52-3K3/3989,10,0,3.448, ₹34.48 
+9,10,399-6601-ND,ESK107M016AC3AA,CAP ALUM 100UF 20% 16V RADIAL TH,https://www.digikey.in/en/products/detail/yageo/CFR-25JR-52-270R/11960,10,0,10.064, ₹100.64 
+10,10,445-8348-ND,FK16X7R1C106KR020,CAP CER 10UF 16V X7R RADIAL,https://www.digikey.in/en/products/detail/yageo/FMP100JR-52-330R/2058601,10,0,28.235, ₹282.35 
+11,10,445-180204-ND,FG18X7R1E105KRT00,CAP CER 1UF 25V X7R RADIAL,https://www.digikey.in/en/products/detail/kemet/ESK107M016AC3AA/3083016,10,0,16.96, ₹169.60 
+12,20,399-6086-ND,ESC477M035AH4AA,CAP ALUM 470UF 20% 35V RADIAL TH,https://www.digikey.in/en/products/detail/tdk/FK16X7R1C106KR020/2815278,20,0,37.74, ₹754.80 
+13,2,IRFP260NPBF-ND,IRFP260NPBF,MOSFET N-CH 200V 50A TO247AC,https://www.digikey.in/en/products/detail/tdk/FG18X7R1H103KNT06/5802878,2,0,587.07," ₹1,174.14 "
+14,10,WP710A10PGT-ND,WP710A10PGT,LED GREEN CLEAR T-1 T/H,https://www.digikey.in/en/products/detail/tdk/FG18X7R1H104KNT06/5802879,10,0,17.426, ₹174.26 
+15,10,754-1606-ND,WP710A10ID,LED RED DIFFUSED T-1 T/H,https://www.digikey.in/en/products/detail/tdk/FG28X7R1H472KNT06/5803212,10,0,14.071, ₹140.71 
+16,5,CKN12301-ND,PTS636SL43 LFS,SWITCH TACTILE SPST-NO 0.05A 12V,https://www.digikey.in/en/products/detail/tdk/FG18X7R1E105KRT00/7326658,5,0,15.84, ₹79.20 
+17,5,3296W-1-252LF-ND,3296W-1-252LF,TRIMMER 2.5K OHM 0.5W PC PIN TOP,https://www.digikey.in/en/products/detail/kemet/ESC477M035AH4AA/2712516,5,0,224.58," ₹1,122.90 "
+18,10,13-CFR-25JR-52-270RCT-ND,CFR-25JR-52-270R,RES 270 OHM 5% 1/4W AXIAL,https://www.digikey.in/en/products/detail/wima/mkp1g031004d00kssd/19251065,10,0,3.262, ₹32.62 
+19,10,330WCT-ND,FMP100JR-52-330R,RES 330 OHM 5% 1W AXIAL,https://www.digikey.in/en/products/detail/diotec-semiconductor/bc327-40bk/13154014,10,0,7.921, ₹79.21 
+20,15,445-173264-1-ND,FG18X7R1H103KNT06,CAP CER 10000PF 50V X7R RADIAL,https://www.digikey.in/en/products/detail/infineon-technologies/irfp260npbf/811623,15,0,12.021, ₹180.32 
+21,10,445-173265-1-ND,FG18X7R1H104KNT06,CAP CER 0.1UF 50V X7R RADIAL,https://www.digikey.in/en/products/detail/texas-instruments/LM311N-NOPB/6175,10,0,12.953, ₹129.53 
+22,10,445-173598-1-ND,FG28X7R1H472KNT06,CAP CER 4700PF 50V X7R RADIAL,https://www.digikey.in/en/products/detail/texas-instruments/NE555P/277057,10,0,12.021, ₹120.21 
+23,15,1928-MKP1G031004D00KSSD-ND,MKP1G031004D00KSSD,MKP 10 0.1 F 400 VDC 7X14X18 PCM,https://www.digikey.in/en/products/detail/onsemi/1N4742A-T50A/977259,0,15,54.793, ₹821.90 
+24,10,4878-BC327-40BK-ND,BC327-40BK,TRANS PNP 45V 0.8A TO-92,https://www.digikey.in/en/products/detail/kingbright/wp710a10pgt/3084194,10,0,10.157, ₹101.57 
+25,5,LM311NNS/NOPB-ND,LM311N/NOPB,IC COMPARATOR 1 GEN PUR 8DIP,https://www.digikey.in/en/products/detail/kingbright/WP710A10ID/2769809,5,0,85.73, ₹428.65 
+26,5,LM311NNS/NOPB-ND,LM311N/NOPB,IC COMPARATOR 1 GEN PUR 8DIP,https://www.digikey.in/en/products/detail/onsemi/1N4148/458603,5,0,85.73, ₹428.65 
+27,10,1N4742A-T50ACT-ND,1N4742A-T50A,DIODE ZENER 12V 1W DO41,https://www.digikey.in/en/products/detail/c-k/PTS636SL43-LFS/10071714,10,0,15.842, ₹158.42 
+28,10,1N4148FS-ND,1N4148,DIODE STANDARD 100V 200MA DO35,https://www.digikey.in/en/products/detail/same-sky-formerly-cui-devices/tb007-508-02be/10064127,10,0,5.125, ₹51.25 
+29,10,102-6203-ND,TB007-508-02BE,"TERMINAL BLOCK, SCREW TYPE, 5.08",https://www.digikey.in/en/products/detail/bourns-inc/3296w-1-252lf/2535912,10,0,36.995, ₹369.95 
+30,5,SC1852-ND,PJRAN1X1U01AUX,CONN RCA JACK MONO 3.2MM R/A,https://www.digikey.in/en/products/detail/switchcraft-inc/PJRAN1X1U01AUX/1288659,5,0,275.83," ₹1,379.15 "
+31,1,Power ( Own Funded ),,,https://www.electropi.in/24v-30amp-smps-720w-dc-metal-power-supply-nwp-india?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdUjZWr9YCGbH4icIqFa3hjFX&gclid=CjwKCAjw8arQBhB9EiwAfIKdQgc_rpZojPv0Mygbbj7UUXyriQciigStOZzCfHfr27ALZGUfF0p5OhoCSjsQAvD_BwE,1,0,3999, ₹0 
+32,2,Transformer ( Own Funded ),,,https://amzn.in/d/0g0eCBQw,2,0,499, ₹0 
+33,1,PCB,,,JLCPCB,1,0,989, ₹989 
+,,,,,,,,Total,₹9579.96 ($100)
