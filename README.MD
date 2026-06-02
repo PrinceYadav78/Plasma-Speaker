@@ -85,11 +85,7 @@ sourced everything from mouser, made full bom and verified all parts. cart is re
 <img width="3124" height="1721" alt="Screenshot 2026-05-18 190640" src="https://github.com/user-attachments/assets/e3d2c703-7dba-4ec8-973e-29f7ede15881" />
 <img width="3199" height="1710" alt="Screenshot 2026-05-18 191033" src="https://github.com/user-attachments/assets/8dfe70c2-0f06-46e6-9dd6-462a064299da" />
 <img width="3199" height="1730" alt="Screenshot 2026-05-18 191025" src="https://github.com/user-attachments/assets/cf19c73a-b37d-4bbf-ae44-1cc6df418703" />
-<img width="1086" height="1703" alt="Screenshot 2026-05-18 190831" src="https://github.com/user-attachments/assets/54669760-215c-4c06-8936-2f5baa2fb9ea" />
-<img width="1037" height="1725" alt="Screenshot 2026-05-18 190827" src="https://github.com/user-attachments/assets/2c94a7f8-7946-4ee5-b3f3-2ac799eadbd7" />
-<img width="1015" height="1738" alt="Screenshot 2026-05-18 190817" src="https://github.com/user-attachments/assets/7e11b401-e2a4-4748-8a9d-7aa7142b79b2" />
-<img width="1086" height="1703" alt="Screenshot 2026-05-18 190831" src="https://github.com/user-attachments/assets/23067be0-d5c6-4543-aeb4-d4afab988be9" />
-<img width="975" height="717" alt="image" src="https://github.com/user-attachments/assets/96b450b0-bb71-4241-9f44-b198a69fe475" />
+
 
 ---
 
