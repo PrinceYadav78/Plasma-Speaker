@@ -57,7 +57,7 @@ sourced everything from mouser, made full bom and verified all parts. cart is re
 | 3 | Zero cross detector schematic | 3hr |
 | 4 | Oscillator schematic | 2hr 45min |
 | 5 | Full PCB routing and silkscreen | 4hr 30min |
-| 6 | BOM and mouser sourcing | 1hr |
+| 6 | BOM and mouser sourcing and later cost cutting by switching to digikey | 1hr 30 min|
 
 ---
 
@@ -85,7 +85,10 @@ sourced everything from mouser, made full bom and verified all parts. cart is re
 <img width="3124" height="1721" alt="Screenshot 2026-05-18 190640" src="https://github.com/user-attachments/assets/e3d2c703-7dba-4ec8-973e-29f7ede15881" />
 <img width="3199" height="1710" alt="Screenshot 2026-05-18 191033" src="https://github.com/user-attachments/assets/8dfe70c2-0f06-46e6-9dd6-462a064299da" />
 <img width="3199" height="1730" alt="Screenshot 2026-05-18 191025" src="https://github.com/user-attachments/assets/cf19c73a-b37d-4bbf-ae44-1cc6df418703" />
-
+<img width="1446" height="1719" alt="Screenshot 2026-06-02 192725" src="https://github.com/user-attachments/assets/76529a41-1c2d-4bf9-947e-4109b5170903" />
+<img width="1402" height="1721" alt="Screenshot 2026-06-02 192737" src="https://github.com/user-attachments/assets/33730bf7-e2a2-400c-9bbc-2a3fb7416ac2" />
+<img width="1388" height="1690" alt="Screenshot 2026-06-02 192749" src="https://github.com/user-attachments/assets/561dc521-a123-420e-87c7-bf6c9abebe0c" />
+<img width="1722" height="1712" alt="Screenshot 2026-06-02 192757" src="https://github.com/user-attachments/assets/18979010-415b-4884-8f3d-8998898df921" />
 
 ---
 
