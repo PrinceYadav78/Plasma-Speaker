@@ -80,7 +80,7 @@ sourced everything from mouser, made full bom and verified all parts. cart is re
 
 ## Cart
 
-<img width="1229" height="1729" alt="Screenshot 2026-05-18 190808" src="https://github.com/user-attachments/assets/1aa987b0-d2db-464f-9a59-5317d63be798" />
+
 <img width="3138" height="1710" alt="Screenshot 2026-05-18 190657" src="https://github.com/user-attachments/assets/e8003873-b3c6-494f-9e03-dae67ebf5380" />
 <img width="3124" height="1721" alt="Screenshot 2026-05-18 190640" src="https://github.com/user-attachments/assets/e3d2c703-7dba-4ec8-973e-29f7ede15881" />
 <img width="3199" height="1710" alt="Screenshot 2026-05-18 191033" src="https://github.com/user-attachments/assets/8dfe70c2-0f06-46e6-9dd6-462a064299da" />
