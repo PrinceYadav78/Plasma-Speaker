@@ -97,3 +97,13 @@ Final message – This project is for my Physics project in my college … I hop
 
 **Total time Spent: 1hr (9:00pm to 10:00pm)**
 
+# June 2 – Cost Cutting
+
+Did the cost cutting by swittching to digikey.. and funding a few things on my own
+<img width="1446" height="1719" alt="Screenshot 2026-06-02 192725" src="https://github.com/user-attachments/assets/76529a41-1c2d-4bf9-947e-4109b5170903" />
+<img width="1402" height="1721" alt="Screenshot 2026-06-02 192737" src="https://github.com/user-attachments/assets/33730bf7-e2a2-400c-9bbc-2a3fb7416ac2" />
+<img width="1388" height="1690" alt="Screenshot 2026-06-02 192749" src="https://github.com/user-attachments/assets/561dc521-a123-420e-87c7-bf6c9abebe0c" />
+<img width="1722" height="1712" alt="Screenshot 2026-06-02 192757" src="https://github.com/user-attachments/assets/18979010-415b-4884-8f3d-8998898df921" />
+
+
+**Total time Spent: 30min(7:00pm to 7:30pm)**
